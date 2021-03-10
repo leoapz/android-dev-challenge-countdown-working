@@ -12,6 +12,7 @@ Basic Timer where you can input timer seconds. Based on Jetpack Compose
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+Inspiration: https://github.com/zdenekobornik/SimpleCountdown 
 
 The following links were helpful for me:
 - Pathways in Jetpack Compose - https://developer.android.com/courses/pathways/compose
