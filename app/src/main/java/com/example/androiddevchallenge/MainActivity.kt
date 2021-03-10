@@ -28,11 +28,11 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.material.Button
 import androidx.compose.material.MaterialTheme
+import androidx.compose.material.OutlinedTextField
 import androidx.compose.material.Scaffold
 import androidx.compose.material.Surface
 import androidx.compose.material.Text
 import androidx.compose.material.TopAppBar
-import androidx.compose.material.OutlinedTextField
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.livedata.observeAsState
@@ -153,7 +153,7 @@ fun CountdownText(value: Int, timerIsFinished: Boolean) {
 fun CountdownContentPreview() {
     CountdownContent(
         inputTime = 20,
-        onInputTimeChange = {  },
+        onInputTimeChange = { },
         onClickButton = { },
         timerIsRunning = false,
         timerIsFinished = true
