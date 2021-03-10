@@ -23,7 +23,7 @@ The following links were helpful for me:
 <!-- You can add more screenshots here if you like -->
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
 
-[Video demo](https://github.com/leoapz/android-dev-challenge-countdown-working/results/video.mp4)
+[Video demo](https://github.com/leoapz/android-dev-challenge-countdown-working/tree/main/results/video.mp4)
 
 ## License
 ```
